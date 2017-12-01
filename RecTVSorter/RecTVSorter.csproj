@@ -90,7 +90,6 @@
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="RecTVSorter_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="Shell32">
